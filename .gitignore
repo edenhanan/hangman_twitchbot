@@ -3,3 +3,5 @@
 /data
 __pycache__
 client_secrets.json
+pipfile
+pipfile.lock
